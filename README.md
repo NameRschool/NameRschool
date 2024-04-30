@@ -7,7 +7,7 @@ Examines strong motivation and unquestionable commitment to excellence, eager to
 performs tasks responsibly and professionally and thoroughly perform them.
 
 ### My Skills 
-[![My Skills](https://skillicons.dev/icons?i= react,angular,nodejs,nextjs,nestjs,cs,dotnet,java,js,ts,html,css,redux,aws,docker,cpp,py,c,git,github,jira,firebase,figma,clion	,anaconda,bootstrap,mongodb,visualstudio,vscode,postman,stackoverflow,linux,ai,pr,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs,nextjs,nestjs,cs,dotnet,java,js,ts,html,css,redux,aws,docker,cpp,py,c,git,github,jira,firebase,figma,clion	,anaconda,bootstrap,mongodb,visualstudio,vscode,postman,stackoverflow,linux,ai,pr,ps)](https://skillicons.dev)
 
 
 
