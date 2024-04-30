@@ -1,16 +1,18 @@
-### Hi there! 👋
+# <b> Rivka Fisher </b> </span> </br>  <p> Software Engineer</p>
 
-<!--
-**NameRschool/NameRschool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Holds Software Engineering Certificate from Ministry of Education,
+plus dedicated Ultra Code training and completing the comprehensive Bootcamp program in Fiverr.
+Has advanced skills in logical-mathematical thinking, along with in-depth analytical ability.
+Examines strong motivation and unquestionable commitment to excellence, eager to learn,
+performs tasks responsibly and professionally and thoroughly perform them.
 
-Here are some ideas to get you started:
+### My Skills 
+[![My Skills](https://skillicons.dev/icons?i= react,angular,nodejs,nextjs,nestjs,cs,dotnet,java,js,ts,html,css,redux,aws,docker,cpp,py,c,git,github,jira,firebase,figma,clion	,anaconda,bootstrap,mongodb,visualstudio,vscode,postman,stackoverflow,linux,ai,pr,ps)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+###
+
+## <b>You can contact me by email [rivka.fisher.1000@gmail.com](mailto:rivka.fisher.1000@gmail.com)</b>
+
