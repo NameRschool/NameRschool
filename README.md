@@ -15,16 +15,6 @@ performs tasks responsibly and professionally and thoroughly perform them.
  - [**HiringSystem**](https://github.com/NameRschool/HiringSystem-node) - Employee recruitment system that allows a particular employer to publish and manage jobs and watch the most successful candidates
  - For more of my projects, check out my [Repositories](https://github.com/NameRschool?tab=repositories).
 
-
-<a href="https://github.com/NameRschool/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MyNameIsYg&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/MyNameIsYg/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MyNameIsYg" />
-</a>
-<br><br><br>
-
-
 ###
 
 ## <b>You can contact me by email [rivka.fisher.1000@gmail.com](mailto:rivka.fisher.1000@gmail.com)</b>
