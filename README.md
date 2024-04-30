@@ -9,7 +9,8 @@ performs tasks responsibly and professionally and thoroughly perform them.
 ### My Skills 
 [![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs,nextjs,nestjs,cs,dotnet,java,js,ts,html,css,redux,aws,docker,cpp,py,c,git,github,jira,firebase,figma,clion,anaconda,bootstrap,mongodb,visualstudio,vscode,postman,stackoverflow,linux,ai,pr,ps)](https://skillicons.dev)
 
-
+### My Skills 
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,c,raspberrypi,cmake,linux,git,github,cs,dotnet,java,js,ts,html,css,react,redux,angular,bootstrap,nodejs,mongodb,visualstudio,vscode,anaconda,idea,postman,stackoverflow,ai,pr)](https://skillicons.dev)
 
 
 
